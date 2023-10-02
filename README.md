@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raison-oos
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...HTML and CSS
-- 💞️ I’m looking to collaborate on ...NO ONE
+- 🌱 I’m currently learning ... C# and Python
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... YOU CANT
 
 <!---
